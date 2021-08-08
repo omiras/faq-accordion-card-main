@@ -1,0 +1,3 @@
+- aplicar el font-size en el html
+- Para posicionar de manera "raruna" imágenes, como por ejemplo que sobresalga de un DIV; , usar backgroundImage
+- Para posicionar un objeto respecto a otro, mejor usar un contenedor para albergar a ambos. No hacerlo directamente el referenciado frente al referente.
